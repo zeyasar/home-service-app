@@ -1,4 +1,3 @@
-![screenshot](https://github.com/user-attachments/assets/fb001ad1-10c0-4459-b44e-94c6fecf54ba)
 
-
-![Simulator Screenshot ](https://github.com/user-attachments/assets/add94ea5-d00d-4381-b10a-1c83f1618c44)
+![screenshot](https://github.com/user-attachments/assets/5414a252-78ef-4dbd-bbee-6e8baa1e9793)
+![Simulator Screenshot ](https://github.com/user-attachments/assets/f62a6127-d3cc-40ae-a1a1-34c1104d963f)
